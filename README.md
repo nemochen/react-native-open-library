@@ -7,6 +7,7 @@
 
 |序号|说明|简介|收录数量|
 |:---:|:---:|:---:|:---:|
+|0|[学习指南](https://github.com/nemochen/react-native-open-library/blob/master/category/00-Study.md)|React Native学习指南|0|
 |1|[完整项目](https://github.com/nemochen/react-native-open-library/blob/master/category/01-App.md)|使用React Native开发<br>完整项目|0|
 |2|[基础框架](https://github.com/nemochen/react-native-open-library/blob/master/category/02-Framework.md)|基础框架|0|
 |3|[列表控件](https://github.com/nemochen/react-native-open-library/blob/master/category/03-ListComponent.md)|列表控件|0|
